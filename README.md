@@ -7,10 +7,10 @@ Imagine it like a swiss knife. Also I'm thinking about adding some minigames or 
 Feel free to do whatever you want with it. 
 
 ## Todo
-[x] Custom dispatcher
-[x] Admin/user command interface
-[x] Different handlers
-[x] Purge command for groups
-[] Purge command for supergroups
-[] Blackjack for users
-[] Random wikipedia article generator for users
+- [x] Custom dispatcher
+- [x] Admin/user command interface
+- [x] Different handlers
+- [x] Purge command for groups
+- [] Purge command for supergroups
+- [] Blackjack for users
+- [] Random wikipedia article generator for users
